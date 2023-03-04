@@ -1,2 +1,2 @@
 #FIRST
-live link:
+live link: https://merimorrison.github.io/QR-CODE/
